@@ -6,3 +6,5 @@ In this repository I implemented a javascript version of https://github.com/anku
 https://amarion35.github.io/nerf2d_tensorflowjs/
 
 You can get more information about the architecture of the model and the loss in the browser console.
+
+All the training and the inferences are run in the browser and can take advantage of your GPU acceleration.
